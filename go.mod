@@ -1,4 +1,4 @@
-module git-plow
+module github.com/maxpilotto/git-plow
 
 go 1.23.3
 
